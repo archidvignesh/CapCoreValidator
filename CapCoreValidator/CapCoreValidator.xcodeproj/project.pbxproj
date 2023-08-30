@@ -39,7 +39,6 @@
 				7593612E026964ACE39F9C13 /* Pods-CapCoreValidator.debug.xcconfig */,
 				6960C1F1F785CAD0BB112366 /* Pods-CapCoreValidator.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
