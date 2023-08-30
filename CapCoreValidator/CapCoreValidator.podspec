@@ -11,5 +11,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/archidvignesh/CapCoreValidator.git", :tag => spec.version.to_s }
   spec.source_files  = "CapCoreValidator/**/*.{swift}"
   spec.swift_versions = "5.0"
-  spec.dependency = 'Sentry', '~> 4.0'
+  spec.dependency = 'Sentry', '~> 8.10.0'
 end
