@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct Validator {
-    static func validateEmail(email: String) -> Bool {
+public struct Validator {
+    public static func validateEmail(email: String) -> Bool {
         return email.count > 2
     }
 }

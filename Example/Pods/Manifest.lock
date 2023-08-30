@@ -1,0 +1,16 @@
+PODS:
+  - CapCoreValidator (1.0.0)
+
+DEPENDENCIES:
+  - CapCoreValidator (from `../CapCoreValidator`)
+
+EXTERNAL SOURCES:
+  CapCoreValidator:
+    :path: "../CapCoreValidator"
+
+SPEC CHECKSUMS:
+  CapCoreValidator: 3f027258eba9f47548311c179de2707fd7a2fffe
+
+PODFILE CHECKSUM: 4c27b90723c9fd03b5f65eaab80436742471cb4f
+
+COCOAPODS: 1.12.1
