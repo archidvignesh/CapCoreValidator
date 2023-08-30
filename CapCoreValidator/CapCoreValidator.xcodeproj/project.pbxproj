@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		3C2DA1B72BAD7F7746A5F8E8 /* Pods_CapCoreValidator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D27E0CAEFC6B16798F17796 /* Pods_CapCoreValidator.framework */; };
 		E492F1282A9F82A400311339 /* CapCoreValidator.h in Headers */ = {isa = PBXBuildFile; fileRef = E492F1252A9F82A400311339 /* CapCoreValidator.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E492F12F2A9F82B900311339 /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E492F12E2A9F82B900311339 /* Validator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -183,7 +182,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E492F12F2A9F82B900311339 /* Validator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
