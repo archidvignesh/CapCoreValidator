@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CapCoreValidator"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "CapCoreValidator is used to effectively validate your emails."
   spec.description  = "Contains multiple classes to perform email validations in the most streamlined manner."
   spec.homepage     = "https://github.com/archidvignesh/CapCoreValidator"
